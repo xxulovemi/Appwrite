@@ -2,12 +2,12 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "Appwrite",
-  "main": "src/main.js",
+  "main": "src/index.js",
   "author": "eooce",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node src/main.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "axios": "latest"
